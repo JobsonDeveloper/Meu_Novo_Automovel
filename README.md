@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://meu-novo-automoveis.vercel.app/)
 
 ### Ferramentas utiliizadas:
